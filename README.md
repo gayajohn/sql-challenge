@@ -37,3 +37,19 @@ The data for this project is about the people whom a company employed during the
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------
+ERD Notes
+---------
+
+- Employees can be part of multiple departments
+
+- Departments can have multiple managers
+
+- Employee salaries stored seperately from other employee information
+
+  
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
